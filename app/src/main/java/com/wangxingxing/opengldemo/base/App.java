@@ -1,4 +1,4 @@
-package com.wangxingxing.opengldemo;
+package com.wangxingxing.opengldemo.base;
 
 import android.app.Application;
 

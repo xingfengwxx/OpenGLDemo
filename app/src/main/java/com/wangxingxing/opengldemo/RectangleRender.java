@@ -5,6 +5,7 @@ import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
 import android.util.Log;
 
+import com.wangxingxing.opengldemo.base.App;
 import com.wangxingxing.opengldemo.util.OpenUtils;
 import com.wangxingxing.opengldemo.util.ShaderUtils;
 

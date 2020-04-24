@@ -3,6 +3,7 @@ package com.wangxingxing.opengldemo;
 import android.opengl.GLES30;
 import android.opengl.GLSurfaceView;
 
+import com.wangxingxing.opengldemo.base.App;
 import com.wangxingxing.opengldemo.util.OpenUtils;
 import com.wangxingxing.opengldemo.util.ShaderUtils;
 
